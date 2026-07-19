@@ -1,0 +1,8 @@
+{
+    "programming_languages": ["Python", "Java", "JavaScript", "C++", "SQL", "TypeScript"],
+    "frameworks": ["React", "Django", "Streamlit", "FastAPI", "Node.js", "Flask", "Angular"],
+    "tools": ["Git", "Docker", "VS Code", "Jenkins", "Postman", "Jira"],
+    "databases": ["MySQL", "MongoDB", "SQLite", "PostgreSQL", "Firebase"],
+    "cloud": ["AWS", "Azure", "GCP", "Heroku"],
+    "concepts": ["REST API", "Machine Learning", "Data Structures", "OOP", "Agile", "CI/CD"]
+}
