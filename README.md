@@ -22,9 +22,7 @@ An AI-powered resume analyzer and interview preparation assistant built with Str
 - **PDF Generation:** `fpdf2`
 - **Language:** Python 3.9
 
-## 📸 Screenshots
 
-*(Add a few screenshots here once you have them — I can help you add these next)*
 
 ## 🚀 Getting Started
 
